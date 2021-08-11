@@ -1,6 +1,7 @@
-# flutter_shared_prefs
+# Flutter Shared Preferences
 
-A new Flutter project.
+A Flutter Project to demonstrate use of Shared Preferences.
+Used package: shared_preferences: 2.0.6
 
 ## Getting Started
 
